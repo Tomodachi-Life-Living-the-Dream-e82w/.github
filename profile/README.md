@@ -1,4 +1,4 @@
-# Tomodachi Life: Living the Dream Switch NSP XCI ROMs
+# Tomodachi Life: Living the Dream Switch NSP XCI ROM
 
 **Tomodachi Life: Living the Dream** is a life-simulation game for Nintendo Switch that focuses on creating characters, building relationships, and watching unexpected events unfold. Players can populate their island with customized characters and enjoy a relaxed experience where friendships, activities, conversations, and surprising situations create unique stories.
 
